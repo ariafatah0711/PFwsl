@@ -14,6 +14,8 @@
 ## 🚀 Description
 - PFwsl is a Python-based automation tool designed to simplify port forwarding on Windows Subsystem for Linux (WSL). This tool helps users set up and manage port forwarding configurations between WSL and Windows environments. It automates the process of forwarding specific ports, which is useful for developers or network administrators who need to route traffic from their WSL instance to the host machine.
 
+[![Watch the video](util/preview.png)](https://youtu.be/odoflJoAfBw)
+
 <p id="table-of-contents"></p>
 
 ## 📋 Table of Contents
