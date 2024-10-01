@@ -1,0 +1,4 @@
+ctypes
+argparse
+subprocess
+win32api
